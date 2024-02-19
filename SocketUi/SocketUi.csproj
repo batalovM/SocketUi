@@ -22,10 +22,6 @@
         <!--Condition below is needed to remove Avalonia.Diagnostics package from build output in Release configuration.-->
         <PackageReference Condition="'$(Configuration)' == 'Debug'" Include="Avalonia.Diagnostics" Version="11.0.2"/>
         <PackageReference Include="Avalonia.ReactiveUI" Version="11.0.2"/>
-    </ItemGroup>
-
-
-    <ItemGroup>
-      <Folder Include="Models\" />
+        <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
     </ItemGroup>
 </Project>

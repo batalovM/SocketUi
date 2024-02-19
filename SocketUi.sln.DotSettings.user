@@ -1,0 +1,5 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\batal\Desktop\4 семак дерьмецо)\Прога\Лаба4\SocketUi\SocketUi\bin\Debug\net7.0\SocketUi.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\batal\.nuget\packages\microsoft.netcore.app.ref\7.0.15\ref\net7.0\System.Net.Primitives.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
